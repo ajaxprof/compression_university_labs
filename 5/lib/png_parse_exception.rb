@@ -1,0 +1,2 @@
+class PngParseException < StandardError
+end

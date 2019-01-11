@@ -1,0 +1,2 @@
+class ConverterException < Exception
+end
